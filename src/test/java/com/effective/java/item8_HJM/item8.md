@@ -1,0 +1,1 @@
+## finalizer와 cleeaner 사용을 피하라.
