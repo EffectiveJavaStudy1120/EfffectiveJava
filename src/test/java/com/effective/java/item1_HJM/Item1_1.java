@@ -24,9 +24,7 @@ public class Item1_1 {
 
         @Test
         void ItemFormTest() {
-
             Movie movie = new Movie("안녕미키", 19);
-
             Movie adultMovie = Movie.adultMovie("그녀와 그놈");
             Movie nomalMovie = Movie.NomalMovie("미녀와 야수", 15);
 
