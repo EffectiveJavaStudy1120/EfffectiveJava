@@ -38,5 +38,6 @@ public class item6_1 {
         // 결과 출력
 // 결과 출력
         System.out.println("Factorial of " + number + " is: " + result);
+
     }
 }
