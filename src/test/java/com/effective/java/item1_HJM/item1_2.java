@@ -48,6 +48,9 @@ public class item1_2 {
 
     @Test
     void CheckCache(){
+
+        // form 매개변수 2개 이상, of 매개변수 1개일때 사용 임의 규칙을 사용함
+
         Movie fantasy = MovieFactory.from("Action");
         Movie from = MovieFactory.from("액션");
     }
